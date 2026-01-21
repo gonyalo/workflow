@@ -1,0 +1,22 @@
+
+
+-> 2026-01-21 21:13:51
+how to create and run vue? example
+
+in the root folder of my repo:
+
+npm create vite@latest frontend
+cd frontend
+npm install
+
+
+$ npm run dev
+
+> frontend@0.0.0 dev
+> vite
+  VITE v7.3.1  ready in 360 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+
+--------------------------------------------------------------------------------
